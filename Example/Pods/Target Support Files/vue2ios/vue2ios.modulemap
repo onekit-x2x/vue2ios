@@ -1,0 +1,6 @@
+framework module vue2ios {
+  umbrella header "vue2ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

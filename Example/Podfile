@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'vue2ios_Example' do
+  pod 'vue2ios', :path => '../'
+
+  target 'vue2ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

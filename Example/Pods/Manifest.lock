@@ -1,0 +1,16 @@
+PODS:
+  - vue2ios (0.1.0)
+
+DEPENDENCIES:
+  - vue2ios (from `../`)
+
+EXTERNAL SOURCES:
+  vue2ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vue2ios: e1410786f03f90ff0665489db5db20ca1c02307f
+
+PODFILE CHECKSUM: 5ca8360ad2f9f8f1d8937b79b2d127b6837cb172
+
+COCOAPODS: 1.8.4
